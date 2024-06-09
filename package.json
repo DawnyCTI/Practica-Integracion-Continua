@@ -1,0 +1,15 @@
+{
+  "name": "my-js-pipeline",
+  "version": "1.0.0",
+  "description": "Proyecto con pipeline CI/CD para pruebas unitarias.",
+  "main": "hello.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
+
+
